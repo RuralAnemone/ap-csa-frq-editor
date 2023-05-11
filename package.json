@@ -1,0 +1,13 @@
+{
+  "name": "ap-csa-frq-editor",
+  "version": "0.0.1",
+  "description": "because anything is better than writing code by hand",
+  "main": "index.js",
+  "repository": "https://github.com/RuralAnemone/ap-csa-frq-editor",
+  "author": "Isaiah W <64103005+RuralAnemone@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "monaco-editor": "0.38.0"
+  }
+}

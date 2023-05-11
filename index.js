@@ -9,4 +9,4 @@ app.use((req, res) => {
 	res.status(404).sendFile(`${process.cwd()}/public/404.html`)
 });
 
-app.listen(port);
+app.listen(port, () => console.log("started"));
